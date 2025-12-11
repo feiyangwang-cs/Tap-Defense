@@ -1,0 +1,8 @@
+boto3
+numpy
+pygame
+python-dotenv
+sounddevice
+RPi.GPIO
+Flask
+requests

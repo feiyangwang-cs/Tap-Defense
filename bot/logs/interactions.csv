@@ -1,0 +1,75 @@
+timestamp,modality,input_transcript,intent,confidence,slots_json,action,success,latency_ms
+2025-12-03T18:01:15.767722,voice,"""""",FallbackIntent,0.000,{},fallback,1,1197.2
+2025-12-03T18:01:38.881295,voice,"""i didn't quite catch that try saying things like that difficulty to hard or valium forty percent ten volume to forty percent""",SetVolume,0.880,{'percent': 401040},set_volume:401040,1,12873.5
+2025-12-03T18:01:56.291538,voice,"""how do apply the gen to four hundred one thousand forty percent hope that sounds better""",SetVolume,0.870,{'percent': 401040},set_volume:401040,1,11723.2
+2025-12-03T18:02:16.983665,voice,"""how are you today the four hundred one thousand forty percent hope that sounds better""",SetVolume,0.830,{'percent': 401040},set_volume:401040,1,15262.5
+2025-12-03T18:02:43.300822,voice,"""i am interested to four hundred one thousand forty percent hope that sounds better""",SetVolume,0.860,{'percent': 401040},set_volume:401040,1,20651.1
+2025-12-03T18:03:42.078347,voice,"""""",FallbackIntent,0.000,{},fallback,1,1182.0
+2025-12-03T18:03:59.982101,voice,"""how do you provide again forty percent""",SetVolume,0.910,{'percent': 40},set_volume:40,1,11340.0
+2025-12-03T18:12:59.598223,voice,"""how about your flight again""",FallbackIntent,0.000,{},fallback,1,5748.8
+2025-12-03T18:13:17.419124,voice,"""how to play it again""",ExplainRules,0.800,{},explain_rules,1,5528.3
+2025-12-03T18:13:32.419947,voice,"""change volume to forty percent""",SetVolume,0.950,{'percent': 40},set_volume:40,1,2917.8
+2025-12-03T18:13:50.369666,voice,"""how to eat a banana that's quite delicious""",FallbackIntent,0.750,{},fallback,1,7769.1
+2025-12-03T18:14:02.010512,voice,"""""",FallbackIntent,0.750,{},fallback,1,2825.2
+2025-12-03T18:14:17.303490,voice,"""""",FallbackIntent,0.750,{},fallback,1,4491.3
+2025-12-03T18:18:49.660905,voice,"""how do i play""",ExplainRules,1.000,{},explain_rules,1,3058.4
+2025-12-03T18:19:05.942621,voice,"""set difficulty to hard""",SetDifficulty,1.000,{'level': 'hard'},set_difficulty:hard,1,3295.4
+2025-12-03T18:19:21.099120,voice,"""change volume to forty percent""",SetVolume,0.950,{'percent': 40},set_volume:40,1,5437.4
+2025-12-03T18:19:35.434838,voice,"""how's the ladder today""",ExplainRules,0.790,{},explain_rules,1,4971.0
+2025-12-03T18:19:53.149845,voice,"""good how are you today""",FallbackIntent,0.000,{},fallback,1,3659.3
+2025-12-03T18:20:09.635799,voice,"""goodbye""",FallbackIntent,0.000,{},fallback,1,4302.2
+2025-12-09T18:44:03.024466,voice,H4sIAAAAAAAA/y3LQQrAIAwEwK8sXvquWCOVhgR0RfL7Xjr3KUvv8AbxhnGZYRB7bTFLUF6F1NhEVR5VB486EwzwGZOJv/eYzPIBfmWtsk0AAAA=,FallbackIntent,0.850,{},fallback,1,13415.9
+2025-12-09T18:44:21.611195,voice,H4sIAAAAAAAA/wXBgQ2AIAwAwVU+bFa0QiPQBGrQ7b1L25920uVWLLhkhU5skT+a3cpRZRQbhajK4SP0DbaN0zfhZGV1aU0n0ic++VQqy4kqkX6jzqdXXwAAAA==,FallbackIntent,0.940,{},fallback,1,6498.0
+2025-12-09T18:51:28.647941,voice,,FallbackIntent,,{},lex_error,0,0.0
+2025-12-09T18:51:40.966315,voice,,FallbackIntent,,{},lex_error,0,0.0
+2025-12-09T18:56:44.198711,voice,"""you can i don't yet know""",ExplainRules,0.760,{},explain_rules,1,8483.6
+2025-12-09T18:57:04.950660,voice,"""it's just because of you know what you played again""",ExplainRules,0.850,{},explain_rules,1,5984.9
+2025-12-09T19:10:25.146204,voice,"""how do you play to gain""",ExplainRules,0.720,{},explain_rules,1,5877.3
+2025-12-09T19:16:41.181597,voice,"""how to play again""",ExplainRules,0.910,{},explain_rules,1,8081.6
+2025-12-09T19:18:28.875178,voice,"""how do you plead here""",FallbackIntent,0.000,{},fallback,1,8551.7
+2025-12-09T19:19:46.290592,voice,"""would you play the game""",ExplainRules,0.880,{},explain_rules,1,6042.5
+2025-12-09T19:25:02.025211,voice,"""how do you play the in""",ExplainRules,0.880,{},explain_rules,1,5744.5
+2025-12-09T20:32:16.089874,voice,"""how do you play him here""",ExplainRules,0.900,{},explain_rules,1,6999.4
+2025-12-09T20:33:02.001876,voice,"""how do i play""",ExplainRules,1.000,{},explain_rules,1,7755.8
+2025-12-09T20:43:16.686130,voice,"""okay i did if you killed a two et""",FallbackIntent,0.000,{},fallback,1,8467.7
+2025-12-09T20:43:36.448022,voice,"""change if you can""",FallbackIntent,0.000,{},fallback,1,7681.5
+2025-12-09T20:43:54.691251,voice,"""you know the anything""",FallbackIntent,0.000,{},fallback,1,6502.9
+2025-12-09T20:44:11.985365,voice,"""enjoy you forty percent it's a""",SetVolume,0.790,{'percent': 40},set_volume:40,1,5545.3
+2025-12-09T20:44:28.882316,voice,"""change volume twenty percent""",SetVolume,0.950,{'percent': 20},set_volume:20,1,7051.3
+2025-12-09T20:50:42.650314,voice,"""change the vehicle the tail az""",FallbackIntent,0.000,{},fallback,1,5753.2
+2025-12-09T20:51:02.584254,voice,"""change difficulty""",FallbackIntent,1.000,{},fallback,1,7867.9
+2025-12-09T20:51:35.091888,voice,"""you figure that of how do""",FallbackIntent,0.950,{},fallback,1,8061.8
+2025-12-09T21:26:38.169926,voice,"""impresses you managed to die again shall we try that one more time only a few enemies laughed""",FallbackIntent,0.000,{},fallback,1,6079.2
+2025-12-09T23:36:48.274652,voice,"""impressive you managed to die again shall we try that one more time""",FallbackIntent,0.000,{},fallback,1,6211.1
+2025-12-09T23:37:48.798606,voice,"""set volume to forty percent""",SetVolume,1.000,{'percent': 40},set_volume:40,1,4486.9
+2025-12-09T23:38:19.074866,voice,"""and the forty percent you're gonna give me within thirty man change change each other talk about me with tiny""",FallbackIntent,0.000,{},fallback,1,7102.8
+2025-12-10T06:26:23.897370,voice,"""how you played again""",ExplainRules,0.950,{},explain_rules,1,1797.1
+2025-12-10T06:26:39.774517,voice,"""change volume to forty percent""",SetVolume,0.950,{'percent': 40},set_volume:40,1,3060.7
+2025-12-10T06:30:45.945686,voice,"""cool how are you today""",ExplainRules,0.800,{},explain_rules,1,5045.2
+2025-12-10T06:31:44.212367,voice,"""so what do you think of the game""",ExplainRules,0.860,{},explain_rules,1,3238.5
+2025-12-10T06:49:12.508580,voice,"""cool ten to hard""",SetDifficulty,0.920,{'level': 'hard'},set_difficulty:hard,1,4696.4
+2025-12-10T06:49:23.362648,voice,"""sixty percent""",SetVolume,0.950,{'percent': 60},set_volume:60,1,1943.3
+2025-12-10T06:50:25.304379,voice,"""today how are you should the""",ExplainRules,0.880,{},explain_rules,1,4089.2
+2025-12-10T06:51:02.277380,voice,"""i weighing in this game""",ExplainRules,0.880,{},explain_rules,1,2305.3
+2025-12-10T19:11:25.776190,voice,"""to fourteen forty percent""",FallbackIntent,0.960,{},fallback,1,8693.1
+2025-12-10T19:11:46.778687,voice,"""can you hold you to forty percent""",SetVolume,0.940,{'percent': 40},set_volume:40,1,8678.4
+2025-12-10T19:12:06.205300,voice,"""tell you what you to sixty percent""",SetVolume,0.890,{'percent': 60},set_volume:60,1,9262.7
+2025-12-10T19:12:23.059909,voice,"""change the difficulty to hard""",SetDifficulty,1.000,{'level': 'hard'},set_difficulty:hard,1,6499.3
+2025-12-10T19:33:19.964947,voice,"""volume a""",FallbackIntent,0.910,{},fallback,1,6423.0
+2025-12-10T19:33:40.161519,voice,"""there will be a""",FallbackIntent,0.910,{},fallback,1,7893.8
+2025-12-10T19:39:53.136243,voice,"""can you volume to forty percent""",SetVolume,0.950,{'percent': 40},set_volume:40,1,6304.9
+2025-12-10T19:40:11.944506,voice,"""change the difficulty to hard""",SetDifficulty,1.000,{'level': 'hard'},set_difficulty:hard,1,7691.9
+2025-12-10T20:59:00.433714,voice,"""pause""",PauseGame,1.000,{},pause_game,1,5991.2
+2025-12-10T21:00:11.814722,voice,"""pause game""",PauseGame,1.000,{},pause_game,1,6440.9
+2025-12-10T21:00:26.976577,voice,"""resume the game""",ResumeGame,1.000,{},resume_game,1,5163.4
+2025-12-10T21:00:43.757168,voice,"""pause game""",PauseGame,1.000,{},pause_game,1,6615.1
+2025-12-10T21:01:00.300066,voice,"""pause game""",PauseGame,1.000,{},pause_game,1,6443.6
+2025-12-10T21:49:24.156880,voice,"""turn it to fourteen two forty""",FallbackIntent,1.000,{},fallback,1,6110.5
+2025-12-10T21:49:43.463685,voice,"""change volume to two zero""",SetVolume,1.000,{'percent': 20},set_volume:20,1,6988.2
+2025-12-10T21:50:01.090595,voice,"""change volume to zero""",SetVolume,1.000,{'percent': 0},set_volume:0,1,7175.1
+2025-12-10T21:50:17.434608,voice,"""turn volume to to fifty""",SetVolume,0.640,{'percent': 50},set_volume:50,1,6160.5
+2025-12-10T21:50:57.974702,voice,"""resume the game""",ResumeGame,1.000,{},resume_game,1,5758.1
+2025-12-10T21:51:28.085413,voice,"""pause game""",PauseGame,1.000,{},pause_game,1,7913.3
+2025-12-10T21:51:43.597590,voice,"""resume the game""",ResumeGame,1.000,{},resume_game,1,5621.2
+2025-12-10T21:51:58.675379,voice,"""volume two zero""",SetVolume,1.000,{'percent': 20},set_volume:20,1,5231.7
+2025-12-10T21:55:19.081302,voice,"""pause game""",PauseGame,1.000,{},pause_game,1,7304.7
